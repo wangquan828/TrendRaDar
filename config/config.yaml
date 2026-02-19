@@ -79,32 +79,30 @@ platforms:
       name: "知乎"
  # === 综合新闻媒体类 ===
     - id: "zaobao"
-    name: "联合早报"
+      name: "联合早报"
 
   # === 财经投资类 ===
 
     - id: "cls-hot"
-    name: "财联社热门"
+      name: "财联社热门"
 
   # === 科技类平台 ===
     - id: "ithome"
-    name: "IT之家"
+      name: "IT之家"
     - id: "juejin"
-    name: "掘金"
+      name: "掘金"
     - id: "github"
-    name: "GitHub"
+      name: "GitHub"
     - id: "hackernews"
-    name: "Hacker News"
+      name: "Hacker News"
     - id: "solidot"
-    name: "Solidot"
+      name: "Solidot"
     - id: "v2ex"
-    name: "V2EX"
-    
+      name: "V2EX"
     - id: "cls-telegraph"
-    name: "财联社 电报"
-  
+      name: "财联社 电报"
     - id: "cls-depth"
-    name: "财联社 深度"
+      name: "财联社 深度"
 
 
 # ===============================================================
