@@ -76,7 +76,7 @@
 /DeepSeek|深度求索|Qwen|通义千问|GLM|智谱|Kimi|月之暗面|百川|MiniMax/ => 其他主流大模型
 /气象大模型|盘古气象|伏羲大模型|伏羲气象|星载智能/ => 前沿气象与星载AI
 
-[细分领域AI应用]
+[AI细分领域应用]
 # 聚焦于生图、生视频及特定Agent工具
 /大香蕉模型|Nano Banana|Midjourney|Stable Diffusion|\bSD\b|DALL-E/ => AI图像生成
 /Sora|Runway|Kling|可灵|海螺/ => AI视频生成
@@ -154,5 +154,5 @@
 
 [K-POP 动态]
 /aespa|柳智敏|KARINA|宁艺卓|NINGNING|金旼炡|WINTER|内永枝利|GISELLE/ => aespa
-/IVE|安兪真|张员瑛|金秋天|直井怜|金志垣|李贤瑞/ => IVE
-/KPOP|K-POP|打歌|回归|女团|SM娱乐|JYP|YG|HYBE/ => KPOP产业新闻
+/IVE|安兪真|张员瑛|张元英|金秋天|直井怜|金志垣|李贤瑞/ => IVE
+/KPOP|K-POP/ => KPOP产业新闻
